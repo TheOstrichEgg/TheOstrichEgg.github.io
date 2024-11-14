@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkthe_ostrich_egg=self.webpackChunkthe_ostrich_egg||[]).push([[245],{783:function(e,t,c){c.r(t),c.d(t,{default:function(){return r}});var n=c(159);function r(){return n.createElement("div",{className:"flex items-center justify-center h-screen bg-white"},n.createElement("h1",{className:"text-2xl font-bold text-black"},"TheOstrichEgg"))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-69569c1a7193201563be.js.map
